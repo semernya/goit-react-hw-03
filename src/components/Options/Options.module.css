@@ -1,0 +1,11 @@
+.resetBtn {
+    display: block;
+}
+
+.isDisplayed {
+    display: block;
+}
+
+.isHidden {
+    display: none;
+}
